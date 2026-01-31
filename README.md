@@ -2,13 +2,13 @@
 <h3 align="center">Owner and CEO of ItemTraxx Co.</h3>
 
 
-- 🔭 I’m currently working on **ItemTraxx**
+-  I’m currently working on **ItemTraxx**
 
-- 🌱 I’m currently learning **Vue and JS**
+-  I’m currently learning **Vue and JS**
 
-- 📫 How to reach me **dennis.frenkel@icloud.com**
+-  How to reach me **dennis.frenkel@icloud.com**
 
-- ⚡ Fun fact **I play ice hockey**
+-  Fun fact **I play ice hockey**
 
 
 <h3 align="left">Languages and Tools:</h3>
