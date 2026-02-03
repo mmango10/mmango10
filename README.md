@@ -6,7 +6,7 @@
 
 -  I’m currently learning **Vue and JS**
 
--  How to reach me **dennis.frenkel@icloud.com**
+-  How to reach me **dennis.frenkel@itemtraxx.com**
 
 -  Fun fact **I play ice hockey**
 
