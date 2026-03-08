@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Dennis Frenkel</h1>
+<h1 align="center">Hi, I'm Dennis</h1>
 <h3 align="center">Owner and CEO of ItemTraxx Co.</h3>
 
 
--  I’m currently working on **ItemTraxx**
+-  I’m currently working on **ItemTraxx-App**
 
 -  I’m currently learning **Vue and JS**
 
