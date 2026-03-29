@@ -2,9 +2,9 @@
 <h3 align="center">Owner and CEO of ItemTraxx Co.</h3>
 
 
--  I’m currently working on **ItemTraxx-App**
+-  I’m currently working on **ItemTraxx**
 
--  I’m currently learning **Vue and JS**
+-  I’m currently learning **Vue, JS, TS, and SQL**
 
 -  How to reach me **dennis.frenkel@itemtraxx.com**
 
