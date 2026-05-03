@@ -8,7 +8,7 @@
 
 -  How to reach me **dennis.frenkel@itemtraxx.com**
 
--  I like mangoes 🥭
+-  I like mangos 🥭
 
 
 <h3 align="left">Languages and Tools:</h3>
