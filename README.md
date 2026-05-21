@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i'm Dennis Frenkel</h1>
-<h3 align="center">Founder & CEO, ItemTraxx Co</h3>
+<h3 align="center">Founder & CEO @ ItemTraxx</h3>
 
 <p align="center">
   I build secure, operationally reliable software for asset and equipment management.
@@ -9,13 +9,13 @@
 
 ### About
 
-I lead product, engineering direction, and operational execution at **ItemTraxx Co**.  
+I lead product, engineering direction, and operational execution at ItemmTraxx.
 Our focus is building software that helps schools, organizations, and teams maintain accountability across inventory, checkout/return workflows, and administrative operations.
 
-- Company: **[ItemTraxx](https://itemtraxx.com)**
+- Company: **[ItemTraxx](https://itemtraxx.com/about)**
 - Current focus: **Platform reliability, security, and scalable admin workflows**
 - Learning: **Vue, JavaScript, TypeScript, SQL**
-- Contact: **dennis.frenkel@itemtraxx.com**
+- Contact me: **dennis.frenkel@itemtraxx.com**
 
 ---
 
@@ -28,7 +28,7 @@ Our focus is building software that helps schools, organizations, and teams main
 
 ---
 
-### Technologies
+### Technologies im familiar with:
 
 <table>
   <tr>
