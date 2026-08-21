@@ -14,7 +14,7 @@ Our focus is building software that helps schools, organizations, and teams main
 
 - Company: **[ItemTraxx](https://itemtraxx.com/about)**
 - Current focus: **Platform reliability, security, and scalable admin workflows**
-- Learning: **Vue, JavaScript, TypeScript, SQL**
+- Learning: **Vue, JavaScript, TypeScript, SQL, Java**
 - Contact me: **dennis.frenkel@itemtraxx.com**
 
 ---
